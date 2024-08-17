@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kunchalasri
 - 🌱 I’m currently learning Artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on new things where it can found or develop on implementating projects
-- 📫 I'm currently learning with help from docs.github.com
+
+
 
 
 <!---
